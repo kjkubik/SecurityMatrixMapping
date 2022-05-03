@@ -13,6 +13,6 @@ Say you wanted to successfully scrabble a data field within a database table. He
 
 Note: To unscrabble the data field to check for validity, you would use the transverse of the original matrix.
 
-# Conclusion
+## Conclusion
 There are several ways of creating the algorithm above. No two solutions must be the same. I do leave you with example code so that you have an example of how complete masking can be done; however, I urge you to only copy the parts of my code you need. Every organization should contain their own unique set of matrices to mask their data. Furthermore, I also recommend coming up with a solution so that these matrices can be changed on a regular bases. 
 
